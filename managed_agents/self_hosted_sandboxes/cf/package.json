@@ -10,7 +10,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.97.0",
     "@cloudflare/containers": "^0.0.28",
-    "minimatch": "^9.0.5"
+    "minimatch": "^11.0.3"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20260301.0",
