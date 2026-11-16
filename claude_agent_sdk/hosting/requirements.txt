@@ -2,7 +2,7 @@
 # Bump deliberately when you've re-run the notebook end-to-end.
 # The npm @anthropic-ai/claude-code pin in the Dockerfile is part of the same
 # pin set — bump together.
-claude-agent-sdk==0.1.50
+claude-agent-sdk==0.2.121
 fastapi==0.118.3
 uvicorn[standard]==0.37.0
 sse-starlette==2.1.3
